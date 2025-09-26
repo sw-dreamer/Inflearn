@@ -12,8 +12,11 @@
 
 ## 📂 프로젝트 구조
 📦 video-frame-extractor
+
 ┣ 📜 extract_frames.py # 프레임 추출 코드
+
 ┣ 📜 video.mp4 # 테스트용 동영상 (예시)
+
 ┗ 📂 frames/ # 추출된 프레임이 저장될 폴더
 
 ```
